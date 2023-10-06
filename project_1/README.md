@@ -1,4 +1,4 @@
-# Проект 0. Угадай число
+# Проект 1. Угадай число
 
 ## Оглавление
 [1. Описание проекта](https://github.com/BogdanTanchuk/sf_data_science/tree/test/project_1/README.md#Описание-проекта)
